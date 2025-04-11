@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "@stomp/stompjs": "^7.0.0",
+    "netlify-cli": "^19.0.0",
     "react": "^19.0.0",
+    "sockjs-client": "^1.6.1",
     "vite": "^6.1.0"
   }
 }
